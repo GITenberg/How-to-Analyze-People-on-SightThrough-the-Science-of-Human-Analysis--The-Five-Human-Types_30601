@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34706'
     url: http://www.gutenberg.org/2009/agents/34706
 description: How to Analyze People on Sight - The Original Classic Edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30601#How-to-Analyze-People-on-SightThrough-the-Science-of-Human-Analysis--The-Five-Human-Types
 gutenberg_issued: '2009-12-04'
 gutenberg_type: Text
 identifiers:
